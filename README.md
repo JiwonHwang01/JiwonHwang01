@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
+<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white">
 </p>
 
 <br>
