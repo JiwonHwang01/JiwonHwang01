@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JiwonHwang&fontSize=90)
 
-<h3 align="center">:seedling: SNS :seedling:</h3>
+<h3 align="center">:seedling: Blog / SNS :seedling:</h3>
 <p align="center">
 <a href="https://g-batman.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-squre&logo=tistory&logoColor=white"/></a>
 <a href="https://www.instagram.com/g1__7070/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
