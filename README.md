@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JiwonHwang&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JiwonHwang&fontSize=90)
 
 <h3 align="center">:seedling: Blog / SNS :seedling:</h3>
 <p align="center">
@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
 </p>
@@ -22,7 +24,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 </p>
 
 <br>
